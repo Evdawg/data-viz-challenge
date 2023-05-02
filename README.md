@@ -16,4 +16,6 @@ Module 5 data visualization challenge
 [3] Aggregate per column:
      https://datagy.io/pandas-groupby-multiple-columns/
 
-[0] Source Starter code .ipynb file: edX Boot Camps LLC. 
+
+[4] Multpile boxplots in for loop:
+	https://stackoverflow.com/questions/64383047/how-to-plot-the-boxplot-of-the-columns-in-one-loop
