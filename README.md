@@ -19,3 +19,6 @@ Module 5 data visualization challenge
 
 [4] Multpile boxplots in for loop:
 	https://stackoverflow.com/questions/64383047/how-to-plot-the-boxplot-of-the-columns-in-one-loop
+
+[5] Regression Plots with Pandas and Numpy:
+	https://towardsdatascience.com/regression-plots-with-pandas-and-numpy-faf2edbfad4f
