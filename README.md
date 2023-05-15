@@ -1,4 +1,5 @@
 # data-viz-challenge
+Graded: 100/100
 Module 5 data visualization challenge
 
 
